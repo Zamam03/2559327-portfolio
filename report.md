@@ -1,0 +1,1 @@
+Today I've created a git repository and then clonned it on my local machine. I've learned how to commit my staged files with a message.
